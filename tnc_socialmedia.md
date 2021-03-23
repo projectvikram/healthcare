@@ -4,7 +4,9 @@ Users acknowledge and understand that they will be part of the support group onl
 
 Discussions are encouraged and queries are answered only during the timings mentioned in the course. The organisers may consider the change of timings upon request from the learners or instructor and the same will be communicated to the participants.
 
-Users are responsible for their own privacy. No personal or direct messages are encouraged with the instructors, admins, or any other group members. No forward messages, group invites, advertisements or any promotional activities are allowed.
+Users are responsible for their own privacy. No personal or direct messages are encouraged with the instructors, admins, or any other group members. No forward messages, group invites, advertisements or any promotional activities are allowed. 
+
+Any content discussed in the group by the members, admins or instructors will be treated as public information and dosenot hold for any Intellectual Property Rights. 
 
 No abusive, irrelevant , unpleasant content in text, audio, videos, image, emojis or any other format is allowed.
 
@@ -17,3 +19,14 @@ Users  agree not to disclose any of your personal information in the group.
 Any mutually agreed direct messages are made at your own discretion and you exempt the organisation and its associates from any liability or resulting effect.
 
 Users who violate the terms will be removed from the group, removal from the group does not qualify for any refund of the course fee.
+
+
+
+References: 
+
+http://web.archive.org/web/20201001014152/https://nrf.ie/wp-content/uploads/2020/04/Rules-for-a-Whatsapp-Group-.pdf
+
+http://web.archive.org/web/20200406225807/https://michaeltabirade.com/the-ultimate-rules-for-a-whatsapp-group/
+
+https://web.archive.org/web/20201102232111/https://medium.com/en-los-espejos-de-un-cafe/a-proposal-of-basic-conduct-behavior-rules-for-whatsapp-groups-ef241d7f54f6
+
